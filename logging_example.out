@@ -1,0 +1,15 @@
+INFO:root:Reading Authfile:/ug/ug2k11/csd/kondetimanikanta.purushotham/.sendsms.auth
+INFO:root:Read!
+INFO:root:The message will be sent to the following numbers:
+ '8977538583'
+INFO:root:Username:8374191751
+DEBUG:root:Password:81326
+INFO:root:Previous Authentication session found. Will try with that first
+DEBUG:root:Previous Cookie read from file: <_MozillaCookieJar.MozillaCookieJar[<Cookie FOSSID=90i79ph8sg86d11epvg4s4go03 for fullonsms.com/>]>
+INFO:root:Sending to 8977538583, the following message:
+ac no:52205739486 , bank name : sbh, gachibowli
+DEBUG:root:try_with_previous:True
+DEBUG:root:POST Query: SelGroup=&ETemplatesId=&MobileNos=8977538583&TabValue=contacts&CancelScript=%2Fhome.php&Gender=0&Message=ac+no%3A52205739486+%2C+bank+name+%3A+sbh%2C+gachibowli&FriendName=Your+Friend+Name
+DEBUG:root:Last line of Data returned:  <script language='javascript' type='text/javascript'>window.location.href = 'http://fullonsms.com/MsgSent.php';</script>
+INFO:root:Seems Like message was successfully sent to 8977538583.
+INFO:root:
